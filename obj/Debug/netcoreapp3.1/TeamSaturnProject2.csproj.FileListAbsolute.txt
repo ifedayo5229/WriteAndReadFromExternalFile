@@ -1,0 +1,13 @@
+C:\Users\Ifedayo\Documents\C# SBSC\TeamSaturnProject2\bin\Debug\netcoreapp3.1\TeamSaturnProject2.exe
+C:\Users\Ifedayo\Documents\C# SBSC\TeamSaturnProject2\bin\Debug\netcoreapp3.1\TeamSaturnProject2.deps.json
+C:\Users\Ifedayo\Documents\C# SBSC\TeamSaturnProject2\bin\Debug\netcoreapp3.1\TeamSaturnProject2.runtimeconfig.json
+C:\Users\Ifedayo\Documents\C# SBSC\TeamSaturnProject2\bin\Debug\netcoreapp3.1\TeamSaturnProject2.runtimeconfig.dev.json
+C:\Users\Ifedayo\Documents\C# SBSC\TeamSaturnProject2\bin\Debug\netcoreapp3.1\TeamSaturnProject2.dll
+C:\Users\Ifedayo\Documents\C# SBSC\TeamSaturnProject2\bin\Debug\netcoreapp3.1\TeamSaturnProject2.pdb
+C:\Users\Ifedayo\Documents\C# SBSC\TeamSaturnProject2\obj\Debug\netcoreapp3.1\TeamSaturnProject2.csprojAssemblyReference.cache
+C:\Users\Ifedayo\Documents\C# SBSC\TeamSaturnProject2\obj\Debug\netcoreapp3.1\TeamSaturnProject2.AssemblyInfoInputs.cache
+C:\Users\Ifedayo\Documents\C# SBSC\TeamSaturnProject2\obj\Debug\netcoreapp3.1\TeamSaturnProject2.AssemblyInfo.cs
+C:\Users\Ifedayo\Documents\C# SBSC\TeamSaturnProject2\obj\Debug\netcoreapp3.1\TeamSaturnProject2.csproj.CoreCompileInputs.cache
+C:\Users\Ifedayo\Documents\C# SBSC\TeamSaturnProject2\obj\Debug\netcoreapp3.1\TeamSaturnProject2.dll
+C:\Users\Ifedayo\Documents\C# SBSC\TeamSaturnProject2\obj\Debug\netcoreapp3.1\TeamSaturnProject2.pdb
+C:\Users\Ifedayo\Documents\C# SBSC\TeamSaturnProject2\obj\Debug\netcoreapp3.1\TeamSaturnProject2.genruntimeconfig.cache
